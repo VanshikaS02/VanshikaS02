@@ -128,7 +128,6 @@ Research_Areas = {
 
 ## 🏆 Goals for 2026
 
-- 📚 Publish impactful AI research
 - 🚀 Build scalable AI-driven applications
 - 🤝 Collaborate on innovative ML projects
 - 🌍 Contribute to open-source AI communities
@@ -139,11 +138,11 @@ Research_Areas = {
 
 <p align="center">
 
-<a href="YOUR_LINKEDIN_URL">
+<a href="[YOUR_LINKEDIN_URL](https://www.linkedin.com/in/vanshika-sangtani/)">
 <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 
-<a href="mailto:YOUR_EMAIL@gmail.com">
+<a href="mailto:vanshisangtu@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail" />
 </a>
 
