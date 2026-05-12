@@ -6,10 +6,6 @@
 MS in Artificial Intelligence @ University of Michigan - Dearborn
 </h3>
 
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&color=58A6FF&center=true&vCenter=true&width=900&lines=AI+Researcher;Machine+Learning+Engineer;Federated+Learning+Enthusiast;Deep+Learning+%7C+NLP+%7C+Computer+Vision;Building+Robust+and+Trustworthy+AI+Systems" />
-</p>
-
 ## 🚀 About Me
 
 - 🎓 Pursuing a Master's in Artificial Intelligence at **UM-Dearborn**
