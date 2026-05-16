@@ -94,22 +94,6 @@ An interactive sentiment-analysis platform that analyzed Twitter comments using 
 
 ---
 
-## 🔥 GitHub Streak
-
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=VanshikaS02&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
-## 📊 Contribution Graph
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=VanshikaS02&theme=tokyo-night&hide_border=true"/>
-</p>
-
----
-
 ## 🧠 Research Interests
 
 ```python
