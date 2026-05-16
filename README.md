@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0F2027,50:203A43,100:2C5364&text=Vanshika%20Sangtani&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Artificial%20Intelligence%20%7C%20Machine%20Learning%%20&descAlignY=58"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0F2027,50:203A43,100:2C5364&text=Vanshika%20Sangtani&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Artificial%20Intelligence%20%7C%20Machine%20Learning%&descAlignY=58"/>
 
 <h1 align="center">Hi 👋, I'm Vanshika Sangtani</h1>
 
