@@ -83,15 +83,6 @@ An interactive sentiment-analysis platform that analyzed Twitter comments using 
 ### Tech Stack
 `Python` `Flask` `Dash` `LSTM`
 
-
-## 📈 GitHub Stats
-
-<p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=VanshikaS02&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VanshikaS02&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
 ---
 
 ## 🧠 Research Interests
